@@ -1,0 +1,9 @@
+li {
+    display: inline-flex;
+    padding: 0px 35px;
+    font-weight: bold;
+    color: blue
+}
+.head {
+    text-decoration: none;
+}
